@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
